@@ -1,0 +1,10 @@
+#img-bg {
+
+  background-image: url('https://cdn.shopify.com/s/files/1/0019/4035/7209/products/209_04ed9ad1-ea03-4ddd-8f53-6ecf8d4a7757_1024x1024.jpg?v=1569380870');
+  min-height: 695px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
